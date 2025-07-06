@@ -18,7 +18,7 @@ The dashboard includes the following pages:
 
 #### 🔸 Team Overview
 - Win/loss stats, performance trends, top players per team  
-![Team Overview]![Overview 1](https://github.com/user-attachments/assets/a448a5a9-f200-474b-9912-e27a859590ce)
+![Overview 1](https://github.com/user-attachments/assets/a448a5a9-f200-474b-9912-e27a859590ce)
 ![Overview 2](https://github.com/user-attachments/assets/eaf2bb5d-8a6e-42b1-be9c-403ada8a3dc2)
 ![Overview 3](https://github.com/user-attachments/assets/5422b00c-116e-4808-830f-44d069f99593)
 
