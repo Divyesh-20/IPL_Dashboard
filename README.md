@@ -93,5 +93,5 @@ All data is sourced from the [CricketData.org API](https://cricketdata.org/), en
 
 ## 👨‍💻 Author
 Divyesh Shinde
-🔗 GitHub | 📧 Email
+[🔗 GitHub] (https://github.com/Divyesh-20) | [📧 Email ] (shindedivyeshavinash@gmail.com)
 
