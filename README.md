@@ -35,7 +35,7 @@ The dashboard includes the following pages:
 ### 🔹 4. Squad Page
 - Team-wise squad details
 - Player roles   
-![Squad Page]![Squad](https://github.com/user-attachments/assets/d96ade62-ce64-4c24-be4c-dd5ead9b6850)
+![Squad](https://github.com/user-attachments/assets/d96ade62-ce64-4c24-be4c-dd5ead9b6850)
 ![Squad Selected Team](https://github.com/user-attachments/assets/a0807858-77fb-42b0-8902-08e17177412b)
 
 ---
